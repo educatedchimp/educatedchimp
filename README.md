@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @educatedchimp
 - 👀 I’m interested in football, programming , movies , music.
-- 🌱 I’m currently learning spring boot and dsa .
+- 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on projects ;idk man.
 - 📫 Nope .
 
