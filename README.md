@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhant 
 - 👀 Let's find out 
-- 🌱 I’m currently learning full stack we b development .
+- 🌱 I’m currently learning full stack web development .
 - 💞️ I’m looking to collaborate on projects .
 - 📫 Nope .
 
